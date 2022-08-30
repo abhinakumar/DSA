@@ -1,7 +1,7 @@
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
-        int n=matrix.size();
+          int n=matrix.size();
        int sr=0;
     int sc=0;
     int er=n-1;
